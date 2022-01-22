@@ -2,7 +2,7 @@
     "name": "KhataBook",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://Adarsh857.github.io/ExpenseCalco",
+    "homepage": "https://abhiiiijain.github.io/KhataBook",
     "dependencies": {
         "@emotion/core": "^11.0.0",
         "@emotion/styled": "^11.6.0",
