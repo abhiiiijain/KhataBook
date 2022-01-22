@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KhataBook/static/css/main.40c80f23.css",
+    "main.js": "/KhataBook/static/js/main.4e27702e.js",
+    "index.html": "/KhataBook/index.html",
+    "main.40c80f23.css.map": "/KhataBook/static/css/main.40c80f23.css.map",
+    "main.4e27702e.js.map": "/KhataBook/static/js/main.4e27702e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40c80f23.css",
+    "static/js/main.4e27702e.js"
+  ]
+}
